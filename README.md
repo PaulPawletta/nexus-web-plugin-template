@@ -1,6 +1,6 @@
 # nexus-web-plugin-template
 
-[general information about Blue Brain Nexus Fusion plugins]('https://bluebrainnexus.io/docs/fusion/plugins.html')
+[general information about Blue Brain Nexus Fusion plugins](https://bluebrainnexus.io/docs/fusion/plugins.html)
 
 ## Build plugin
 ```
@@ -10,7 +10,7 @@
 
 ## Deploy plugin
 
-1. Get source code for [Nexus Fusion]('https://github.com/BlueBrain/nexus-web')
+1. Get source code for [Nexus Fusion](https://github.com/BlueBrain/nexus-web)
 
 2. Copy dist/superplugin.bundle.js to Nexus Fusion plugin folder plugins/super-plugin/superplugin.bundle.js
 
